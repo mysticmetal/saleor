@@ -69,6 +69,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix get unpublished products, product variants and collection as app - #6194 by @fowczarek
 - Set OrderFulfillStockInput fields as required - #6196 by @IKarbowiak
 - Fix attribute filtering by categories and collections - #6214 by @fowczarek
+- Don't create and process payment when checkout total is 0 - #6211 by @IKarbowiak
 
 ## 2.10.2
 
